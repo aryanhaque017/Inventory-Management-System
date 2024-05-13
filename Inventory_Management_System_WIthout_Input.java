@@ -215,8 +215,5 @@ public class Inventory_Management_System_WIthout_Input {
         inventory.addProduct(products50);
 
         inventory.displayInventory();
-        
-        
-
     }
 }
